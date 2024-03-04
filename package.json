@@ -1,0 +1,21 @@
+{
+  "name": "karma-bundledump-preprocessor",
+  "version": "1.0.3",
+  "description": "A Karma plugin. Saves test bundles into .dump files.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/checker2/karma-bundledump-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "dump"
+  ],
+  "author": "Roman Mochalov <checker@mail.ru>",
+  "license": "MIT",
+  "homepage": "https://github.com/checker2/karma-bundledump-preprocessor",
+  "bugs": {
+    "url": "https://github.com/checker2/karma-bundledump-preprocessor/issues"
+  }
+}
